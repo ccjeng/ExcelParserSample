@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>TakeIo.Spreadsheet</id>
+    <version>1.0.0.11</version>
+    <authors>Guilherme Balena Versiani</authors>
+    <owners>Guilherme Balena Versiani</owners>
+    <licenseUrl>https://bitbucket.org/takenet/takeio.spreadsheet/src/default/COPYING</licenseUrl>
+    <projectUrl>https://bitbucket.org/takenet/takeio.spreadsheet</projectUrl>
+    <iconUrl>http://dl.dropbox.com/u/15208521/takeio-logo.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>TakeIo.Spreadsheet is a library to import Excel and CSV files. For Excel files, it applies the cell formatting over values.</description>
+    <summary>TakeIo.Spreadsheet is a library to import Excel and CSV files.</summary>
+    <language>en-US</language>
+    <tags>excel csv excel2003 excel2007 npoi hssf</tags>
+    <frameworkAssemblies>
+      <frameworkAssembly assemblyName="WindowsBase" targetFramework=".NETFramework4.0" />
+    </frameworkAssemblies>
+  </metadata>
+</package>
